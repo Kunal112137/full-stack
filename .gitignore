@@ -1,0 +1,7 @@
+backend/package-lock.json
+frontend/package.json
+backend/node_modules/.package-lock.json
+backend/node_modules/@hapi/hoek/package.json
+backend/package.json
+backend/node_modules/@hapi/topo/package.json
+backend/node_modules/@mongodb-js/saslprep/package.json
